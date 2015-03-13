@@ -107,7 +107,7 @@ void loop() {
     }
   }
   Serial.println( mode_status);
-  delay(100);
+  delay(1000);
 
 }
 
